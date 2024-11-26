@@ -1,0 +1,6 @@
+{
+  "extends": "nx/presets/npm.json",
+  "$schema": "./node_modules/nx/schemas/nx-schema.json",
+  "defaultBase": "master",
+  "nxCloudId": "6745f9f2be50b45771a56092"
+}
