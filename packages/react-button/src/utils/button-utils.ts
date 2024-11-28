@@ -1,0 +1,1 @@
+export const defaultButtonLabel = 'Click Me!';
